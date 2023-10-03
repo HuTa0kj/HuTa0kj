@@ -24,7 +24,4 @@
 
 
 
-
-
-
-![](https://raw.githubusercontent.com/HuTa0kj/HuTa0kj/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/HuTa0kj/HuTa0kj/output/github-contribution-grid-snake-dark.svg)
