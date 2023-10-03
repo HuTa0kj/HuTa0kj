@@ -3,7 +3,7 @@
 ### Hi there
 
 - 🔭 Web security enthusiast.
-- 📚 My research direction is Web security and Deep learning.
+- 📚 My research direction is Web Security and Deep Learning.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 [Welcome to my personal blog](https://HuTa0kj.github.io)
 - ...
@@ -27,3 +27,4 @@
 
 
 
+![](https://raw.githubusercontent.com/HuTa0kj/HuTa0kj/main/assets/github-contribution-grid-snake.svg)
