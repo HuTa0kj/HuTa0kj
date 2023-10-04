@@ -2,7 +2,7 @@
 
 ### Hi,I'm HuTa0
 
-- 🔭 Web security enthusiast.
+- 🔭 Web Security enthusiast.
 - 📚 My research direction is Web Security and Deep Learning.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 [Welcome to my personal blog](https://HuTa0kj.github.io)
