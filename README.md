@@ -5,7 +5,7 @@
 - 🔭 Web Security enthusiast.
 - 📚 My research direction is Web Security and Deep Learning.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 [Welcome to my personal blog](http://59.110.9.60)
+- 🧗 [Welcome to my personal blog](http://furina.org.cn)
 - ...
 
 </br>
