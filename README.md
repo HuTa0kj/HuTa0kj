@@ -2,11 +2,8 @@
 
 ### Hi,I'm Fur1na
 
-- 🔭 Web Security enthusiast.
-- 📚 My research direction is Web Security and Deep Learning.
-- 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 [Welcome to my personal blog](http://furina.org.cn)
-- ...
+- 🔭 Web Security Enthusiast.
+- 🧗 Furina's Crazy Fans
 
 </br>
 
