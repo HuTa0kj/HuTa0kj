@@ -2,7 +2,7 @@
 
 Security researcher specializing in web security, large-scale security, and agent-related fields.
 
-## Field of study
+## Research field
 
 ### Web Security
 
